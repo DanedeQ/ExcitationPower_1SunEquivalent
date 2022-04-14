@@ -11,7 +11,7 @@ from scipy.interpolate import interp1d
 
 # Define constants for the calculation:
 
-wavelength = 532 # nm, wavelength
+wavelength = 632.8 # nm, wavelength
 d = 600*1e-7 # cm, film thickness
 
 #%% Load data sets
